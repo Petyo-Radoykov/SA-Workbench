@@ -29,7 +29,7 @@ In order to address the requirements for extensibility and reusability we have i
 
 The required functionalities for collaborative work are provided via chat and notification services. Both services have server and client-side parts and share the same architectural design. The architectural design selected is a combination of the publisher-subscriber messaging pattern and the blackboard pattern. In this pattern, the publishers do not need to know about the subscribers which results in design with loose coupling between the participating objects which improves the flexibility and scalability of the system. Blackboard is a data-centred architectural pattern which is applicable in situations where multiple users work on the same problem. This pattern allows multiple independent programs, also called “knowledge sources”, to communicate exclusively through a shared global data repository known as blackboard.
 
-Additionally, we use the Open Close, Dependency Inversion, and Single Responsibility software design principles to achieve the extensibility of the system and reusability of its components.
+Additionally, we used the Open Close, Dependency Inversion, and Single Responsibility software design principles to achieve the extensibility of the system and reusability of its components.
 
 
 **Conclusion** 
