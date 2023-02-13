@@ -1,5 +1,6 @@
 # SA-Workbench
-Collaborative Software Architecting with an Extensible Web-based Workbench
+**Collaborative Software Architecting with an Extensible Web-based Workbench**
+
 The main contribution of this work is the development of a prototype of a Computer-Aided Software Engineering (CASE) host environment supporting a variety of software architecture related work activities which could be used as a proof that a collaborative, extensible, and customisable web-based tools could improve the productivity and enhance the capabilities of the software architects.
 
 
